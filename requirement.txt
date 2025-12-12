@@ -1,0 +1,5 @@
+asyncio
+msgraph-sdk
+beautifulsoup4
+lxml
+urllib3
